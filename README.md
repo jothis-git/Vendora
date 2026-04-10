@@ -107,7 +107,7 @@ cd vendora
 ### 🔹 Backend Setup (Spring Boot)
 
 ```bash
-cd vendora-backend
+cd vendora
 ```
 
 #### Configure `application.properties`
